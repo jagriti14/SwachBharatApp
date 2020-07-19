@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629353069217",
+    "firebase_url": "https://swachbharatapp-ed5ae.firebaseio.com",
+    "project_id": "swachbharatapp-ed5ae",
+    "storage_bucket": "swachbharatapp-ed5ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629353069217:android:14b998c9c9523307210ee0",
+        "android_client_info": {
+          "package_name": "com.jagriti.swachbharatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629353069217-ag4vh20da6h4fr1mn2qt5gtj6mplmspk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfj-eu3sTLPGGCf85WI5eT4OIumEd5HTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629353069217-ag4vh20da6h4fr1mn2qt5gtj6mplmspk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

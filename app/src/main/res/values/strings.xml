@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwachBharatApp</string>
+    <string name="current_night_mode">current_night_mode</string>
+    <string name="offline_version_key">Offline Version key</string>
+</resources>
